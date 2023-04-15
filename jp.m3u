@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 ,TV Asahi
+#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="Undefined", TV Asahi
 http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 #EXTINF:-1 ,TBS
 http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/index.m3u8
@@ -53,12 +53,6 @@ http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
 #EXTINF:-1 ,CS 日テレ
 http://redlabmcdn.s.llnwi.net/nv02/cs01hd/index.m3u8
-#EXTINF:-1 ,Shop Japan
-http://redlabmcdn.s.llnwi.net/nv02/cs03hd/index.m3u8
-#EXTINF:-1 ,Kids STATION
-http://redlabmcdn.s.llnwi.net/nv02/cs04hd/index.m3u8
-#EXTINF:-1 ,NECO
-http://redlabmcdn.s.llnwi.net/nv02/cs05hd/index.m3u8
 #EXTINF:-1 ,Discovery
 http://redlabmcdn.s.llnwi.net/nv02/cs06hd/index.m3u8
 #EXTINF:-1 ,WOWOW Cinema
