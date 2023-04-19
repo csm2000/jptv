@@ -27,7 +27,7 @@ http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/cs02hd/index.m3u8
 #EXTINF:-1 tvg-id="JSports4.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png" group-title="Sports",GAORA SPORTS
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1?WithCaption
-#EXTINF:-1 ,鉄道チャンネル
+#EXTINF:-1 tvg-id="鉄道チャンネル.jp" tvg-logo="https://scontent-nrt1-1.xx.fbcdn.net/v/t39.30808-6/294099981_475007981291066_8502199496847472182_n.png?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=aDXeKaJFxikAX9XiYew&_nc_ht=scontent-nrt1-1.xx&oh=00_AfBAfaGYIgiRrWSSb1pHfuKcD9xUld0XMhGJ-COEXCYbyQ&oe=6443E14B" group-title="Undefined",鉄道チャンネル
 https://code.vthanhtivi.pw/getlink/jptv2/158/playlist.m3u8
 #EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-logo="https://i.imgur.com/0i5rDRN.png" group-title="Undefined",Tokyo MX1
 http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
