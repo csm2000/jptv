@@ -33,6 +33,10 @@ https://code.vthanhtivi.pw/getlink/jptv2/158/playlist.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
 #EXTINF:-1 tvg-id="BS12.jp" tvg-logo="https://i.imgur.com/rpRlJUm.png" group-title="Undefined",BS 12
 http://redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8
+#EXTINF:-1 tvg-id="フジテレビ NEXT.jp" tvg-logo="https://otn.fujitv.co.jp/_nuxt/img/dac939d.png" group-title="Undefined",フジテレビ ONE
+https://code.vthanhtivi.pw/getlink/jptv2/146/playlist.m3u8
+#EXTINF:-1 tvg-id="フジテレビ NEXT.jp" tvg-logo="https://otn.fujitv.co.jp/_nuxt/img/1644a39.png" group-title="Undefined",フジテレビ TWO
+https://code.vthanhtivi.pw/getlink/jptv2/147/playlist.m3u8
 #EXTINF:-1 tvg-id="フジテレビ NEXT.jp" tvg-logo="https://otn.fujitv.co.jp/_nuxt/img/6690bb6.png" group-title="Undefined",フジテレビ NEXT
 https://code.vthanhtivi.pw/getlink/jptv2/148/playlist.m3u8
 #EXTINF:-1 ,BS 日テレ
